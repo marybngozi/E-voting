@@ -15,5 +15,5 @@ This system was designed to model the Nigerian election at the Federal Level. It
 4. E-voting Administrator Application
 5. E-voting Result Web Interface
 
-> The manual of installation and Operation can be found at  [https://github.com/marybngozi/E-voting/blob/master/manual.pdf](Manual)
-> The systems above can be found [https://mega.nz/#F!phcRjIKD!piPUM834rNgAssCrLgjysA](Here)
+> The manual of installation and Operation can be found at  [Manual](https://github.com/marybngozi/E-voting/blob/master/manual.pdf)
+> The systems above can be found [Here](https://mega.nz/#F!phcRjIKD!piPUM834rNgAssCrLgjysA)
